@@ -1,0 +1,37 @@
+a {
+    color: green;  
+  }
+  
+  #image {   
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    display: block;
+    margin: auto;
+  }
+  
+  #img-div {  
+    font-family: "Arial", "Courier-New", "sans-serif";
+    font-size: 12px;
+    text-align: center; 
+  }
+  
+  #img-caption {
+    font-style: italic;
+    color: #00FFFF;
+  }
+  
+  #tribute-info {
+    font-family: "Calibri", "Arial", "sans-serif";
+    font-size: 15px;
+    font-style: normal;
+    text-align: justify;
+    margin: auto;
+    width: 50%;
+  }
+  
+  
+#title {
+  text-align: center;
+}
+  
